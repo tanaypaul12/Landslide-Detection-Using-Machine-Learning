@@ -51,7 +51,8 @@ Performance was evaluated using standard classification metrics such as:
 
 <img width="2431" height="3205" alt="landslide_susceptibility_map_final (1)" src="https://github.com/user-attachments/assets/8ac828a4-41bb-434f-a29d-952987421544" />
 
-![Uploading Screenshot 2026-01-28 202212.jpg…]()
+![Screenshot 2026-01-28 202212](https://github.com/user-attachments/assets/46e72cd8-1755-4d8f-8f69-ece58c7c90a2)
+
 
 
 
