@@ -8,7 +8,7 @@ This project focuses on landslide susceptibility prediction using geospatial dat
 Data Preparation
 
 Landslide Inventory
-Historical landslide event locations were collected and used as the primary reference dataset, lebeled 0 as non landslide point which is inventory points and 1 as Landlide points  
+Historical landslide event locations were collected and used as the primary reference dataset, lebeled 0 as non landslide point which is inventory points and 1 as Landslide points.  
 
 Factor-Level Data Extraction
 For each landslide location, point-wise values of conditioning factors were extracted. These factors typically include:
@@ -51,7 +51,8 @@ Performance was evaluated using standard classification metrics such as:
 
 <img width="2431" height="3205" alt="landslide_susceptibility_map_final (1)" src="https://github.com/user-attachments/assets/8ac828a4-41bb-434f-a29d-952987421544" />
 
-<img width="2431" height="3205" alt="landslide_susceptibility_map_final" src="https://github.com/user-attachments/assets/faa1fb76-6e47-4648-a50e-3a60797e198f" />
+<img width="521" height="556" alt="image" src="https://github.com/user-attachments/assets/198e28fe-68cf-40a9-9f75-19a9cc36861b" />
+
 
 **Accuracy**
 
