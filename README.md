@@ -67,7 +67,7 @@ The model can support disaster risk reduction, land-use planning, and early warn
 
 **Tools & Technologies**
 
-GIS for spatial data processing and factor extraction
+Google Earth Engine and GIS for spatial data processing. 
 
 Python for data analysis and modeling
 
